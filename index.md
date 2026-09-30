@@ -1,6 +1,6 @@
 # Política de Privacidade — Caderno de Receitas
 
-**Última atualização:** abril de 2026
+**Última atualização:** setembro de 2026
 
 Este documento descreve como o aplicativo **Caderno de Receitas** coleta, usa e protege as informações dos usuários.
 
@@ -31,7 +31,7 @@ A criação de conta é **totalmente opcional**. O app funciona completamente of
 ## 2. Como usamos as informações
 
 - **E-mail:** usado exclusivamente para autenticação e recuperação de conta. Não enviamos e-mails de marketing.
-- **Fotos:** armazenadas de forma segura para exibição nas suas receitas. Acessíveis somente pelo dono da conta.
+- **Fotos:** armazenadas na nuvem em uma pasta vinculada à sua conta. Só você pode enviar, listar ou apagar suas fotos. Para exibição no app, cada foto usa um link com identificador aleatório, que não é público nem listável — mas quem tiver o link exato consegue abrir a imagem. As fotos são apagadas quando você exclui a receita ou a conta.
 - **Receitas:** armazenadas localmente no dispositivo (plano gratuito) ou na nuvem (plano premium). Não compartilhamos receitas de usuários com terceiros.
 - **Advertising ID:** usado pelo Google AdMob para personalizar anúncios. Usuários premium **não** são expostos a anúncios.
 
